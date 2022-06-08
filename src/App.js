@@ -1,10 +1,10 @@
 import './App.css';
-import GetInTouch from './Pages/GetInTouch/GetInTouch';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
     <div>
-      <GetInTouch />
+      <Navbar />
     </div>
   );
 }
