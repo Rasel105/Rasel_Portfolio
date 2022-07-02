@@ -20,7 +20,7 @@ const Home = () => {
                 </p>
                 <div className='flex justify-start'>
                     <a className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'
-                        href='https://drive.google.com/file/d/19QeOecjpDwHMdwrzBosWT7_SdzfEFVbo/view?usp=sharing' target="_blank" rel="noopener noreferrer"
+                        href='https://drive.google.com/file/d/19QeOecjpDwHMdwrzBosWT7_SdzfEFVbo/view?usp=sharing' target="_blank" rel="noopener noreferrer download"
                     >
                         Download Resume
                         <span className='group-hover:rotate-90 duration-300'>
