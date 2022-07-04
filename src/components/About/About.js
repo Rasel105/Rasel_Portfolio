@@ -17,11 +17,9 @@ const About = () => {
                         <p>Hi. I'm Rasel, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I am passionate about building excellent software that improves
-                            the lives of those around me. I specialize in creating software
-                            for clients ranging from individuals and small-businesses all the
-                            way to large enterprise corporations. What would you do if you had
-                            a software expert available at your fingertips?</p>
+                        <p>
+                            I’m familiar with a variety of programming languages, Frameworks, Libraries, and Tools including HTML, CSS, Bootstrap, Tailwind-CSS, DaisyUi, JavaScript, React.js, React-Router, Rest API, Firebase, Node.js, Express.js, and MongoDB. I am also familiar with Typescript, and Next Js. but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
+                        </p>
                     </div>
                 </div>
             </div>

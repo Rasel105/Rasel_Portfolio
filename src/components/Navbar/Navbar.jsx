@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
             <div>
                 {/* <img src={Logo} className="rounded-full" alt='LogoImage' style={{ width: '50px' }} /> */}
-                <Link to='home' smooth={true} className='text-4xl font-bold cursor-pointer'>RASEL</Link>
+                <Link to='home' smooth={true} className='text-4xl font-bold cursor-pointer'><i>RASEL</i></Link>
             </div>
 
             {/* menu */}
